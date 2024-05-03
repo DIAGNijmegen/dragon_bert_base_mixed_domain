@@ -1,7 +1,7 @@
 from dragon_baseline import DragonBaseline
 
 
-class DragonBaselineBertBaseMixedDomain(DragonBaseline):
+class DragonBertBaseMixedDomain(DragonBaseline):
     def __init__(self, **kwargs):
         """
         Adapt the DRAGON baseline to use the joeranbosma/dragon-bert-base-mixed-domain model.
@@ -17,4 +17,4 @@ class DragonBaselineBertBaseMixedDomain(DragonBaseline):
 
 
 if __name__ == "__main__":
-    DragonBaselineBertBaseMixedDomain().process()
+    DragonBertBaseMixedDomain().process()
