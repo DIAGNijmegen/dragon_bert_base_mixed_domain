@@ -1,4 +1,4 @@
-* DRAGON Baseline BERT Base Dutch Mixed-domain version:
+* DRAGON Baseline BERT Base Mixed-domain version:
 * Python version:
 * Operating System:
 
